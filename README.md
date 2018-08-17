@@ -1,1 +1,3 @@
-# RFM
+# Using_RFM_Analysis_for_Customer_Segmentation
+建立RFM模型进行客户分群以及价值评估 。
+
